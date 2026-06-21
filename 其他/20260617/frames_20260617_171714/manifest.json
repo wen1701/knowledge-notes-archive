@@ -1,0 +1,111 @@
+{
+  "created_at": "2026-06-17T09:17:52.197075+00:00",
+  "source": "https://v.douyin.com/1IPxl2uHDqU/",
+  "source_type": "local_file",
+  "aweme": {
+    "author": "退伍兵·小易班长🇨🇳（每月小班课）",
+    "desc": "2026年的限流新规，希望帮到你#短视频运营#编导 #实体商家做抖音",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_audio_1781687834.980365.mp4",
+    "width": 1080,
+    "height": 1920,
+    "duration": 285.633,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 46959901,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 570,
+      "columns": 7,
+      "rows": 5,
+      "capacity": 35,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2882,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 286,
+    "estimated_sheets": 9,
+    "sampled_frames": 286,
+    "directory": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 34.0,
+        "frames": 35
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_002.jpg",
+        "start": 35.0,
+        "end": 69.0,
+        "frames": 35
+      },
+      {
+        "index": 3,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_003.jpg",
+        "start": 70.0,
+        "end": 104.0,
+        "frames": 35
+      },
+      {
+        "index": 4,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_004.jpg",
+        "start": 105.0,
+        "end": 139.0,
+        "frames": 35
+      },
+      {
+        "index": 5,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_005.jpg",
+        "start": 140.0,
+        "end": 174.0,
+        "frames": 35
+      },
+      {
+        "index": 6,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_006.jpg",
+        "start": 175.0,
+        "end": 209.0,
+        "frames": 35
+      },
+      {
+        "index": 7,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_007.jpg",
+        "start": 210.0,
+        "end": 244.0,
+        "frames": 35
+      },
+      {
+        "index": 8,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_008.jpg",
+        "start": 245.0,
+        "end": 279.0,
+        "frames": 35
+      },
+      {
+        "index": 9,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260617/frames_20260617_171714/sheets/sheet_009.jpg",
+        "start": 280.0,
+        "end": 285.0,
+        "frames": 6
+      }
+    ]
+  }
+}
