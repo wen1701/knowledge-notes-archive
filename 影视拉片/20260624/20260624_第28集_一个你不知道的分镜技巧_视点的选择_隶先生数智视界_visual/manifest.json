@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-24T20:01:40.155519+00:00",
+  "source": "https://www.douyin.com/video/7653062704786429806",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第28集：一个你不知道的分镜技巧-视点的选择 #ai创作浪潮计划#AI短剧教程#分镜设计#镜头语言讲解 #ai视频创作激励计划\n很多朋友研究提示词、运镜、转场等。\n却忽略了一个影响情绪的重要因素：\n视点的选择。\n同样一个场景。\n站在不同位置拍摄，\n观众感受到的情绪可能完全不同。\n这也是电影、动画、短剧里经常使用的分镜思维。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_6qn55gxy/source.mp4",
+    "width": 1080,
+    "height": 1440,
+    "duration": 13.433,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1105326,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 2,
+      "capacity": 14,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 876,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 14,
+    "estimated_sheets": 1,
+    "sampled_frames": 13,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260624/20260624_第28集_一个你不知道的分镜技巧_视点的选择_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260624/20260624_第28集_一个你不知道的分镜技巧_视点的选择_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 12.0,
+        "frames": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-24T20:00:46.347906+00:00",
+  "source": "https://www.douyin.com/video/7649360874474234022",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第24集：跑视频时，这句话一定要加 #ai创作浪潮计划 #ai短剧教程 #分镜设计#提示词怎么写 #ai视频创作激励计划\n很多人卷分镜。\n却忽略了分镜里的声音。\n一个小小的提示词设定。\n绝对能帮你省掉大量后期工作。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_y941oaih/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 19.367,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1651734,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 3,
+      "capacity": 21,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1308,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 20,
+    "estimated_sheets": 1,
+    "sampled_frames": 19,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第24集_跑视频时_这句话一定要加_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第24集_跑视频时_这句话一定要加_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 18.0,
+        "frames": 19
+      }
+    ]
+  }
+}

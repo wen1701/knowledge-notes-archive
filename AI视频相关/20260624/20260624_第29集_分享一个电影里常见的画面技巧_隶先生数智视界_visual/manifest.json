@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-24T20:01:07.434057+00:00",
+  "source": "https://www.douyin.com/video/7653776347709566962",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第29集：分享一个电影里常见的画面技巧 #真实生活分享计划 #AI短剧教程#构图技巧#镜头语言#ai视频创作激励计划\n很多人做AI短剧。\n总觉得画面差点意思。\n其实问题未必是提示词。\n而是观众不知道该看哪里。\n电影里经常会利用：\n负空间、光影、人物关系\n悄悄控制观众的视线。\n本期分享一个\n最近在书里看到的实用技巧。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_6anzh2zc/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 19.067,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 626760,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 3,
+      "capacity": 21,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1308,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 20,
+    "estimated_sheets": 1,
+    "sampled_frames": 19,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第29集_分享一个电影里常见的画面技巧_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第29集_分享一个电影里常见的画面技巧_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 18.0,
+        "frames": 19
+      }
+    ]
+  }
+}

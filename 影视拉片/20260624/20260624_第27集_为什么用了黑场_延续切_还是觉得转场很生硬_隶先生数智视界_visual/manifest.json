@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-24T20:01:28.289873+00:00",
+  "source": "https://www.douyin.com/video/7651226313294378569",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第27集：为什么用了黑场、延续切，还是觉得转场很生硬？ #ai创作浪潮计划#AI短剧教程#分镜设计#转场技巧 #ai视频创作激励计划\n最近看了第九集的朋友表示\n做了黑场、延续切等转场还是不顺\n这一集分享一种更自然的转场方式\n剧情驱动下的场景切换。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_egng7_dv/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 17.7,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1686740,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 3,
+      "capacity": 18,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 1308,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 18,
+    "estimated_sheets": 1,
+    "sampled_frames": 18,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260624/20260624_第27集_为什么用了黑场_延续切_还是觉得转场很生硬_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260624/20260624_第27集_为什么用了黑场_延续切_还是觉得转场很生硬_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 17.0,
+        "frames": 18
+      }
+    ]
+  }
+}

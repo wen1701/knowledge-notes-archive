@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-24T20:00:56.984781+00:00",
+  "source": "https://www.douyin.com/video/7650394432080780962",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第26集：AI给你的分镜提示词，千万别直接用 #ai创作浪潮计划#AI短剧教程#分镜脚本 #提示词怎么写#ai视频创作激励计划\n很多人以为：\n拿到提示词就结束了。\n其实真正的差距，\n往往从提示词之后才开始。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_tq_v_276/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 49.333,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 4852340,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 7,
+      "capacity": 49,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 3036,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 50,
+    "estimated_sheets": 2,
+    "sampled_frames": 49,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第26集_AI给你的分镜提示词_千万别直接用_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260624/20260624_第26集_AI给你的分镜提示词_千万别直接用_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 48.0,
+        "frames": 49
+      }
+    ]
+  }
+}
