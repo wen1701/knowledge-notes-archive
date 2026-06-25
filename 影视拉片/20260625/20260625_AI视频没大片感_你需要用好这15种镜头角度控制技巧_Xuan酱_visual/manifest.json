@@ -1,0 +1,83 @@
+{
+  "created_at": "2026-06-25T20:00:57.087726+00:00",
+  "source": "https://v.douyin.com/z5OsK0Y4TEo/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "Xuan酱",
+    "desc": "AI视频没大片感？你需要用好这15种镜头角度控制技巧... 我一次性总结了低机位、平视、俯视等15种镜头角度\n适用于人物出场、对话、情绪、动作和展示环境五大常用的叙事场景\n想要让你的AI视频更有张力和大片感\n看这期视频就够了 \n#AI新星计划 #AI视频",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_2h9g3ck7/source.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 580.8,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 99003072,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 180,
+      "columns": 7,
+      "rows": 17,
+      "capacity": 119,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 3140,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 581,
+    "estimated_sheets": 5,
+    "sampled_frames": 581,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 118.0,
+        "frames": 119
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets/sheet_002.jpg",
+        "start": 119.0,
+        "end": 237.0,
+        "frames": 119
+      },
+      {
+        "index": 3,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets/sheet_003.jpg",
+        "start": 238.0,
+        "end": 356.0,
+        "frames": 119
+      },
+      {
+        "index": 4,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets/sheet_004.jpg",
+        "start": 357.0,
+        "end": 475.0,
+        "frames": 119
+      },
+      {
+        "index": 5,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260625/20260625_AI视频没大片感_你需要用好这15种镜头角度控制技巧_Xuan酱_visual/sheets/sheet_005.jpg",
+        "start": 476.0,
+        "end": 580.0,
+        "frames": 105
+      }
+    ]
+  }
+}
