@@ -1,0 +1,83 @@
+{
+  "created_at": "2026-06-26T20:15:29.478414+00:00",
+  "source": "https://v.douyin.com/gB8EX8KGIJg/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "明刀当年",
+    "desc": "解析影视：细节如何塑造情绪 #镜头语言 #电影拉片 #视听语言 #杀死比尔",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_ke1_5s89/source.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 501.067,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 72819792,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 180,
+      "columns": 7,
+      "rows": 17,
+      "capacity": 119,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 3140,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 502,
+    "estimated_sheets": 5,
+    "sampled_frames": 501,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 118.0,
+        "frames": 119
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets/sheet_002.jpg",
+        "start": 119.0,
+        "end": 237.0,
+        "frames": 119
+      },
+      {
+        "index": 3,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets/sheet_003.jpg",
+        "start": 238.0,
+        "end": 356.0,
+        "frames": 119
+      },
+      {
+        "index": 4,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets/sheet_004.jpg",
+        "start": 357.0,
+        "end": 475.0,
+        "frames": 119
+      },
+      {
+        "index": 5,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260529/20260529_解析影视_细节如何塑造情绪_明刀当年_visual/sheets/sheet_005.jpg",
+        "start": 476.0,
+        "end": 500.0,
+        "frames": 25
+      }
+    ]
+  }
+}
