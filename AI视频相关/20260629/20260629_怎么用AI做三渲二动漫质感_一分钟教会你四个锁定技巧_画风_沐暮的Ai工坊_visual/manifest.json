@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-06-29T20:00:59.691424+00:00",
+  "source": "https://v.douyin.com/hxMjk0_3cYo/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "沐暮的Ai工坊",
+    "desc": "怎么用AI做三渲二动漫质感？ 一分钟教会你四个锁定技巧，画风不跑偏！\n#AI#AIGC#AI漫剧#三渲二 #干货分享",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_uwh14mae/source.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 77.3,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 10554698,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 180,
+      "columns": 7,
+      "rows": 12,
+      "capacity": 84,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2220,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 78,
+    "estimated_sheets": 1,
+    "sampled_frames": 77,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260629/20260629_怎么用AI做三渲二动漫质感_一分钟教会你四个锁定技巧_画风_沐暮的Ai工坊_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260629/20260629_怎么用AI做三渲二动漫质感_一分钟教会你四个锁定技巧_画风_沐暮的Ai工坊_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 76.0,
+        "frames": 77
+      }
+    ]
+  }
+}
