@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-01T20:00:50.667527+00:00",
+  "source": "https://www.douyin.com/video/7654209942613724431",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "小G-0202",
+    "desc": "AI\"摄影师\"如何理解镜头视角？ #ai新星计划  #AI生图 #AI制图 #抽卡 #视听语言",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_b48uhxm1/source.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 99.433,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 7454047,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 180,
+      "columns": 7,
+      "rows": 15,
+      "capacity": 105,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2772,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 100,
+    "estimated_sheets": 1,
+    "sampled_frames": 99,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260701/20260701_AI_摄影师_如何理解镜头视角_小G_0202_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260701/20260701_AI_摄影师_如何理解镜头视角_小G_0202_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 98.0,
+        "frames": 99
+      }
+    ]
+  }
+}
