@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-06T23:08:56.732416+00:00",
+  "source": "https://www.douyin.com/video/7656784296871191662",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第32集：仰拍里那些你不知道的画面细节 #ai创作浪潮计划#AI短剧教程#构图技巧#镜头语言#ai视频创作激励计划\n分享一个容易被忽略的分镜技巧。\n当镜头低于人物视线时，\n人物的气场会被重新定义。\n不仅是“更高大”，\n而是空间关系也会发生变化。\n线条、动势、视线等等\n都会产生不同的细节变化\n本期分享一个\n我最近在书里看到的分镜技巧。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_5t955p5i/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 22.3,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 879320,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 4,
+      "capacity": 24,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 23,
+    "estimated_sheets": 1,
+    "sampled_frames": 22,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260706/20260706_第32集_仰拍里那些你不知道的画面细节_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260706/20260706_第32集_仰拍里那些你不知道的画面细节_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 21.0,
+        "frames": 22
+      }
+    ]
+  }
+}
