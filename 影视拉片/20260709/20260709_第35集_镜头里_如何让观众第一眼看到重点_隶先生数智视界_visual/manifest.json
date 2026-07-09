@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-09T20:00:57.148892+00:00",
+  "source": "https://www.douyin.com/video/7660124555504191846",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第35集：镜头里，如何让观众第一眼看到重点？ #ai创作浪潮计划#AI短剧教程#构图技巧#镜头语言#ai视频创作激励计划\n为什么镜头里的复杂画面， \n观众依然能快速找到重点？\n因为导演不会让所有元素平等出现。\n本期拆解一个书里的技巧\n如何利用“复杂与简单”的对比 。\n让画面自动产生视觉中心。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_yq10lkhn/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 20.033,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 702063,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 3,
+      "capacity": 21,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1308,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 21,
+    "estimated_sheets": 1,
+    "sampled_frames": 20,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260709/20260709_第35集_镜头里_如何让观众第一眼看到重点_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260709/20260709_第35集_镜头里_如何让观众第一眼看到重点_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 19.0,
+        "frames": 20
+      }
+    ]
+  }
+}
