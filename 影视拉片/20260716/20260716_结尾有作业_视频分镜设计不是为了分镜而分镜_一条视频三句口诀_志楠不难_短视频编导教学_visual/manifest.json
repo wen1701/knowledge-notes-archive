@@ -1,0 +1,83 @@
+{
+  "created_at": "2026-07-16T20:01:21.185266+00:00",
+  "source": "https://v.douyin.com/x3AAWvWf5Q0/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "志楠不难（短视频编导教学）",
+    "desc": "结尾有作业！视频分镜设计不是为了分镜而分镜，一条视频三句口诀教会你怎么让每次分镜都让观众往下看，提升完播#短视频编导 #分镜设计 #分镜头 #镜头语言",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_dyxozg34/source.mp4",
+    "width": 1080,
+    "height": 1920,
+    "duration": 141.1,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 19260074,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 570,
+      "columns": 7,
+      "rows": 5,
+      "capacity": 35,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2882,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 142,
+    "estimated_sheets": 5,
+    "sampled_frames": 141,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 34.0,
+        "frames": 35
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets/sheet_002.jpg",
+        "start": 35.0,
+        "end": 69.0,
+        "frames": 35
+      },
+      {
+        "index": 3,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets/sheet_003.jpg",
+        "start": 70.0,
+        "end": 104.0,
+        "frames": 35
+      },
+      {
+        "index": 4,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets/sheet_004.jpg",
+        "start": 105.0,
+        "end": 139.0,
+        "frames": 35
+      },
+      {
+        "index": 5,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260716/20260716_结尾有作业_视频分镜设计不是为了分镜而分镜_一条视频三句口诀_志楠不难_短视频编导教学_visual/sheets/sheet_005.jpg",
+        "start": 140.0,
+        "end": 140.0,
+        "frames": 1
+      }
+    ]
+  }
+}
