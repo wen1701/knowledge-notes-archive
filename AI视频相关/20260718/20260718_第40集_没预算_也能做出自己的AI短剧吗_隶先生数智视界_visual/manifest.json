@@ -1,0 +1,69 @@
+{
+  "created_at": "2026-07-18T20:01:11.879978+00:00",
+  "source": "https://www.douyin.com/video/7662740955116593843",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第40集：没预算，也能做出自己的AI短剧吗？ #ai创作浪潮计划#AI短剧教程#导演思维#ai导演扶持计划#ai视频创作激励计划 \n很多人开始做AI短片时，\n第一个问题：\n“一只片子需要花多少米？”\n但真正决定作品质量的，\n不只是工具。\n剧本、\n分镜、\n镜头语言、\n创作流程，\n才是决定作品的核心。\n好的工具当然重要，\n但米应该花在真正解决问题的地方。\n本期分享：\n普通创作者如何用正确方式完成AI短片。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_4m5abgtt/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 114.867,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 6568103,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 7,
+      "capacity": 49,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 3036,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 115,
+    "estimated_sheets": 3,
+    "sampled_frames": 115,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260718/20260718_第40集_没预算_也能做出自己的AI短剧吗_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260718/20260718_第40集_没预算_也能做出自己的AI短剧吗_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 48.0,
+        "frames": 49
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260718/20260718_第40集_没预算_也能做出自己的AI短剧吗_隶先生数智视界_visual/sheets/sheet_002.jpg",
+        "start": 49.0,
+        "end": 97.0,
+        "frames": 49
+      },
+      {
+        "index": 3,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260718/20260718_第40集_没预算_也能做出自己的AI短剧吗_隶先生数智视界_visual/sheets/sheet_003.jpg",
+        "start": 98.0,
+        "end": 114.0,
+        "frames": 17
+      }
+    ]
+  }
+}

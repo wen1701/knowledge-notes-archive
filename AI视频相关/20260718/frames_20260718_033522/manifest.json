@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-17T19:35:24.447174+00:00",
+  "source": "https://www.douyin.com/video/7663101159627853147",
+  "source_type": "local_file",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第41集：又一次尝试驯服AI的过程 #ai创作浪潮计划#AI短剧教程#电影感#镜头语言#ai视频创作激励计划\n一次次调整人物，\n一次次修改动作，\n一次次重新寻找感觉。\n这一期记录一个镜头，\n从失败版本，\n到最终成片的过程。\n原创短片【无盐】完整版\n主页可自行观看",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_audio_1784316922.8950999.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 26.4,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1566070,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 4,
+      "capacity": 28,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 27,
+    "estimated_sheets": 1,
+    "sampled_frames": 26,
+    "directory": "/Users/wen/.hermes/data/douyin_transcripts/20260718/frames_20260718_033522/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260718/frames_20260718_033522/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 25.0,
+        "frames": 26
+      }
+    ]
+  }
+}
