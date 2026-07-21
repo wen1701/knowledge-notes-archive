@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-21T20:01:03.327789+00:00",
+  "source": "https://www.douyin.com/video/7664618633729827977",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第43集：简单洗个菜，都要抽好几次卡 #ai创作浪潮计划#AI短剧教程#电影感#镜头语言#ai视频创作激励计划\n一次次调整人物，\n一次次修改动作，\n一次次重新寻找感觉。\n记录一个镜头从失败\n到最终成片的过程。\n【无盐】完整版\n主页可自行观看",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_0u8f8pzf/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 25.933,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 2690315,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 4,
+      "capacity": 28,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 26,
+    "estimated_sheets": 1,
+    "sampled_frames": 26,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260721/20260721_第43集_简单洗个菜_都要抽好几次卡_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260721/20260721_第43集_简单洗个菜_都要抽好几次卡_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 25.0,
+        "frames": 26
+      }
+    ]
+  }
+}

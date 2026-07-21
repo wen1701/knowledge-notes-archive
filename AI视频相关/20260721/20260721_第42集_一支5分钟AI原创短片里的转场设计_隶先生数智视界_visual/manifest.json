@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-21T20:00:51.152234+00:00",
+  "source": "https://www.douyin.com/video/7663837934503650890",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第42集：一支5分钟AI原创短片里的转场设计 #ai创作浪潮计划#AI短剧教程#转场技巧#镜头语言#ai视频创作激励计划\n好的转场，\n往往是让观众感觉不到切换，\n但情绪已经自然延续了 。\n今天拆解一支原创短片，\n看看运用了，\n哪些场景转换技巧。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_k9tnapel/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 35.667,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1783047,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 6,
+      "capacity": 36,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 2604,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 36,
+    "estimated_sheets": 1,
+    "sampled_frames": 36,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260721/20260721_第42集_一支5分钟AI原创短片里的转场设计_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260721/20260721_第42集_一支5分钟AI原创短片里的转场设计_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 35.0,
+        "frames": 36
+      }
+    ]
+  }
+}
