@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-24T20:00:46.784069+00:00",
+  "source": "https://www.douyin.com/video/7665703100434821962",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第44集：同一个镜头，换个视角，情绪完全不同 #ai创作浪潮计划#AI短剧教程#电影感#镜头语言#ai视频创作激励计划\n有时候\n观众视角的位置。\n会让情绪产生不一样的变化\n这期用一个“人物倒地”的镜头，\n拆解3种视点带来的不同情绪。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_9w3tx3pe/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 24.5,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 981959,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 4,
+      "capacity": 28,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 25,
+    "estimated_sheets": 1,
+    "sampled_frames": 25,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260724/20260724_第44集_同一个镜头_换个视角_情绪完全不同_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260724/20260724_第44集_同一个镜头_换个视角_情绪完全不同_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 24.0,
+        "frames": 25
+      }
+    ]
+  }
+}
