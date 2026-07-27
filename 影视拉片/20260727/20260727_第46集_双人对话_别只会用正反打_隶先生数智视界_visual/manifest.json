@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-07-27T20:00:31.652070+00:00",
+  "source": "https://www.douyin.com/video/7666438603597820910",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第46集：双人对话，别只会用正反打 #ai创作浪潮计划#AI短剧教程#电影感#镜头语言#ai视频创作激励计划\n很多人觉得，台词是谁说，\n镜头就应该拍谁。\n但电影真正重要的，\n不是“谁在说”。\n而是：谁正在感受。\n当一个角色说话时，\n镜头留在另一个人的脸上。\n观众看到的，\n就不再是信息。\n而是反应。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_8rn7xl8h/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 21.833,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1193107,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 4,
+      "capacity": 24,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 22,
+    "estimated_sheets": 1,
+    "sampled_frames": 22,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260727/20260727_第46集_双人对话_别只会用正反打_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260727/20260727_第46集_双人对话_别只会用正反打_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 21.0,
+        "frames": 22
+      }
+    ]
+  }
+}
