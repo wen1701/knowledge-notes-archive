@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-08-11T20:00:58.087211+00:00",
+  "source": "https://www.douyin.com/video/7671642684662801774",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "你们要看的 MiniMAX H3 来了！这效果有点东西 #ai创作浪潮计划#AI短剧教程#未来导演扶持计划#ai视频创作激励计划#迈克尔贝运镜\n最近很多朋友问：\nMiniMAX H3 做 AI 短剧到底行不行？\n这次直接测试。\n同提示词，对比三个工具的真实表现。\n新手选工具，可能会少走很多弯路。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_jp2by9ps/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 29.433,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1922257,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 5,
+      "capacity": 30,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 2172,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 30,
+    "estimated_sheets": 1,
+    "sampled_frames": 29,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260811/20260811_你们要看的_MiniMAX_H3_来了_这效果有点东西_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260811/20260811_你们要看的_MiniMAX_H3_来了_这效果有点东西_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 28.0,
+        "frames": 29
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-08-11T20:01:19.634286+00:00",
+  "source": "https://www.douyin.com/video/7672023626786338506",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "分享一个你不知道的运镜技巧 #ai创作浪潮计划#AI短剧教程#动态分镜思维#镜头语言#ai视频创作激励计划\n很多人做AI短剧，\n只关注画面够不够震撼。\n但真正高级的镜头，\n是在运动中不断给观众新的信息。\n一个俯拍，\n一次转向，\n一次角度变化。\n都可以改变观众对故事的理解。\n分享一个书里看到的技巧：\n旋转镜头如何通过视角变化，\n让一个镜头完成信息递进。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_gypjzois/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 36.933,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1271759,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 6,
+      "capacity": 42,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2604,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 37,
+    "estimated_sheets": 1,
+    "sampled_frames": 37,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260811/20260811_分享一个你不知道的运镜技巧_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260811/20260811_分享一个你不知道的运镜技巧_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 36.0,
+        "frames": 37
+      }
+    ]
+  }
+}
