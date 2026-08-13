@@ -1,0 +1,62 @@
+{
+  "created_at": "2026-08-13T20:00:31.937729+00:00",
+  "source": "https://v.douyin.com/mzE1EMyg_s0/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "胡说AI",
+    "desc": "两个参考图➕两段30秒的提示词生成童话绘本风格动画，使用seedance2.5制作#恐龙动画 #ai提示词 #aigc #seedance25 #骑士 转载自@WHORANGE",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_88_o1d71/source.mp4",
+    "width": 720,
+    "height": 1280,
+    "duration": 55.333,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 10727618,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 570,
+      "columns": 7,
+      "rows": 5,
+      "capacity": 35,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2882,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 56,
+    "estimated_sheets": 2,
+    "sampled_frames": 55,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260813/20260813_两个参考图_两段30秒的提示词生成童话绘本风格动画_使用se_胡说AI_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260813/20260813_两个参考图_两段30秒的提示词生成童话绘本风格动画_使用se_胡说AI_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 34.0,
+        "frames": 35
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260813/20260813_两个参考图_两段30秒的提示词生成童话绘本风格动画_使用se_胡说AI_visual/sheets/sheet_002.jpg",
+        "start": 35.0,
+        "end": 54.0,
+        "frames": 20
+      }
+    ]
+  }
+}
