@@ -1,0 +1,62 @@
+{
+  "created_at": "2026-08-18T20:00:59.882597+00:00",
+  "source": "https://v.douyin.com/EakBWQP3S20/",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "秋秋造梦姐",
+    "desc": "50秒带你快速认识常用的AI画面高级质感参数提示词 #电影感 #ai教程 #ai画面 #创作者中心 #创作灵感@DOU+上热门",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_26sg_awq/source.mp4",
+    "width": 1080,
+    "height": 1920,
+    "duration": 45.967,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 2861910,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 570,
+      "columns": 7,
+      "rows": 5,
+      "capacity": 35,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2882,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 46,
+    "estimated_sheets": 2,
+    "sampled_frames": 46,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260818/20260818_50秒带你快速认识常用的AI画面高级质感参数提示词_秋秋造梦姐_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260818/20260818_50秒带你快速认识常用的AI画面高级质感参数提示词_秋秋造梦姐_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 34.0,
+        "frames": 35
+      },
+      {
+        "index": 2,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260818/20260818_50秒带你快速认识常用的AI画面高级质感参数提示词_秋秋造梦姐_visual/sheets/sheet_002.jpg",
+        "start": 35.0,
+        "end": 45.0,
+        "frames": 11
+      }
+    ]
+  }
+}
