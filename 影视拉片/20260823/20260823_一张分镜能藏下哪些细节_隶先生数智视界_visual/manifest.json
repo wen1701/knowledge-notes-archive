@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-08-23T20:00:36.779412+00:00",
+  "source": "https://www.douyin.com/video/7676476066663697843",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "一张分镜能藏下哪些细节？ #ai创作浪潮计划#AI短剧教程#分镜思维#镜头语言#ai视频创作激励计划\n一个固定机位，\n如何通过前景、光影、人物位置，\n控制观众看到什么？",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_5l39za08/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 40.333,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1278855,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 6,
+      "capacity": 42,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2604,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 41,
+    "estimated_sheets": 1,
+    "sampled_frames": 40,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260823/20260823_一张分镜能藏下哪些细节_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260823/20260823_一张分镜能藏下哪些细节_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 39.0,
+        "frames": 40
+      }
+    ]
+  }
+}
