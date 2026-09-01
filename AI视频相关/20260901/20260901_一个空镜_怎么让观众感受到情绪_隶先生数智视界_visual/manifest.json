@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-01T20:00:55.013488+00:00",
+  "source": "https://www.douyin.com/video/7679416931338003658",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "一个空镜，怎么让观众感受到情绪？ #ai创作浪潮计划#AI短剧教程#构图技巧#镜头语言#ai视频创作激励计划\n环境也是叙事的\n一部分。\n一个光影变化，\n一个空间关系，\n都可能决定观众\n感受到什么。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_usk_3zsu/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 27.1,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 794125,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 4,
+      "capacity": 28,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 28,
+    "estimated_sheets": 1,
+    "sampled_frames": 27,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260901/20260901_一个空镜_怎么让观众感受到情绪_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260901/20260901_一个空镜_怎么让观众感受到情绪_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 26.0,
+        "frames": 27
+      }
+    ]
+  }
+}

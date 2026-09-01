@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-01T20:01:05.571863+00:00",
+  "source": "https://www.douyin.com/video/7679799391629305563",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "不会拆分镜？教你从一张图推完整镜头 #ai创作浪潮计划#AI短剧教程#动态分镜思维#镜头语言#ai视频创作激励计划\n本期分享一个，\n我最近在书里看到的技巧，\n动态分镜思维。\n从一张中心分镜开始，\n到环境建立、人物情绪、动作推进、视角变化、最终转场。\n一整个创作流程逻辑",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_0pwfqcps/source.mp4",
+    "width": 576,
+    "height": 768,
+    "duration": 41.333,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 988591,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 6,
+      "capacity": 42,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2604,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 42,
+    "estimated_sheets": 1,
+    "sampled_frames": 41,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260901/20260901_不会拆分镜_教你从一张图推完整镜头_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260901/20260901_不会拆分镜_教你从一张图推完整镜头_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 40.0,
+        "frames": 41
+      }
+    ]
+  }
+}
