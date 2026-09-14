@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-14T04:30:14.076547+00:00",
+  "source": "https://www.douyin.com/video/7651839609002010835",
+  "source_type": "local_file",
+  "aweme": {
+    "author": "疯天尊",
+    "desc": "锐评黑暗文世界观 #小说 #网文",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_audio_1789360209.224446.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 103.567,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1560969,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 180,
+      "columns": 7,
+      "rows": 15,
+      "capacity": 105,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2772,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 104,
+    "estimated_sheets": 1,
+    "sampled_frames": 104,
+    "directory": "/Users/wen/.hermes/data/douyin_transcripts/20260914/frames_20260914_123009/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260914/frames_20260914_123009/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 103.0,
+        "frames": 104
+      }
+    ]
+  }
+}
