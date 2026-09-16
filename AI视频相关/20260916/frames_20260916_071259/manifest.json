@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-15T23:13:01.080545+00:00",
+  "source": "https://www.douyin.com/video/7684988580280846170",
+  "source_type": "local_file",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "一个想法，怎么快速变成完整片段？ #ai视频生成实测#AI短剧教程#剧本创作#ai视频创作激励计划#laper\n从一个想法开始，\n剧本、人物、场景、分镜，\n再到最后的视频片段，\n这次用 Laper AI 实际走一遍，\n看看从想法到成片到底有多快。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_audio_1789513979.251209.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 28.433,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1218128,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 5,
+      "capacity": 30,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 2172,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 29,
+    "estimated_sheets": 1,
+    "sampled_frames": 28,
+    "directory": "/Users/wen/.hermes/data/douyin_transcripts/20260916/frames_20260916_071259/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260916/frames_20260916_071259/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 27.0,
+        "frames": 28
+      }
+    ]
+  }
+}
