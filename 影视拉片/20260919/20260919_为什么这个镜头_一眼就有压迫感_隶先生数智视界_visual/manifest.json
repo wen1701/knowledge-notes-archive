@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-19T20:00:41.646753+00:00",
+  "source": "https://www.douyin.com/video/7686467166121008486",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "为什么这个镜头，一眼就有压迫感？ #ai分镜 #AI短剧教程#分镜思维#镜头语言#ai视频创作激励计划\n为什么有些镜头，\n什么都没发生，\n却已经让人感觉到压迫？\n这一期从一张分镜里，\n拆几个容易被忽略的细节。\n构图、光影、人物位置，\n都可能成为情绪的一部分。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_5hhwxgzh/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 22.733,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 654817,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 6,
+      "rows": 4,
+      "capacity": 24,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 1956,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 23,
+    "estimated_sheets": 1,
+    "sampled_frames": 23,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260919/20260919_为什么这个镜头_一眼就有压迫感_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260919/20260919_为什么这个镜头_一眼就有压迫感_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 22.0,
+        "frames": 23
+      }
+    ]
+  }
+}
