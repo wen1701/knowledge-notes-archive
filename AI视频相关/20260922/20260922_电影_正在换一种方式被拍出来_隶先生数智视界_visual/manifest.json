@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-22T20:01:21.816999+00:00",
+  "source": "https://www.douyin.com/video/7687944598552045026",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "电影，正在换一种方式被拍出来 #我在抖音学ai #AI短剧教程#电影预告#电影制作#ai视频创作激励计划\n以前拍电影，\n需要一整个剧组。\n现在，\n一个人也能把它做出来。\n这期用一个镜头，\n带你看看电影行业的变革。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_be77lfh7/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 39.133,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 2334435,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 6,
+      "capacity": 42,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 2604,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 40,
+    "estimated_sheets": 1,
+    "sampled_frames": 39,
+    "directory": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260922/20260922_电影_正在换一种方式被拍出来_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/AI视频相关/20260922/20260922_电影_正在换一种方式被拍出来_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 38.0,
+        "frames": 39
+      }
+    ]
+  }
+}
