@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-28T20:00:50.024316+00:00",
+  "source": "https://www.douyin.com/video/7688326955116423848",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "为什么这个镜头，一看就让人喘不过气？ #我在抖音学ai#AI短剧教程#分镜思维#镜头语言#ai视频创作激励计划\n同样是压迫感，\n这次换一个角度。\n人物的高低、位置、围合和光影，\n怎么共同制造压迫感？",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_eaa75cwq/source.mp4",
+    "width": 1080,
+    "height": 1440,
+    "duration": 20.833,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 713070,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 3,
+      "capacity": 21,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1308,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 21,
+    "estimated_sheets": 1,
+    "sampled_frames": 21,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260928/20260928_为什么这个镜头_一看就让人喘不过气_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260928/20260928_为什么这个镜头_一看就让人喘不过气_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 20.0,
+        "frames": 21
+      }
+    ]
+  }
+}
