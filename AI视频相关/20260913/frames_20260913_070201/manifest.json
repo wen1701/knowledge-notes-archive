@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-12T23:02:03.458800+00:00",
+  "source": "https://www.douyin.com/video/7683877859623385774",
+  "source_type": "local_file",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "AI短剧剧本创作，非科班应该怎么做？ #真实生活分享计划 #AI短剧教程#剧本创作 #ai视频创作激励计划#laper \n做AI短剧，\n最让我头疼的其实不是画面，\n而是剧本。\n尤其对非科班来说，\n怎么写、怎么改、怎么让它真正适合拍摄，\n都需要一点方法。\n这期拿一段实际剧本，\n分享我常用的创作方法和工具。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_audio_1789254121.22458.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 43.533,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 1937381,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 7,
+      "capacity": 49,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 3036,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 44,
+    "estimated_sheets": 1,
+    "sampled_frames": 44,
+    "directory": "/Users/wen/.hermes/data/douyin_transcripts/20260913/frames_20260913_070201/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/.hermes/data/douyin_transcripts/20260913/frames_20260913_070201/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 43.0,
+        "frames": 44
+      }
+    ]
+  }
+}
