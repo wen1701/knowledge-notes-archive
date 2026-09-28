@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-09-28T20:13:13.515056+00:00",
+  "source": "https://www.douyin.com/video/7667934792482632394",
+  "source_type": "douyin_url",
+  "aweme": {
+    "author": "隶先生数智视界",
+    "desc": "第47集：电影里的背景，其实一直在说话 #ai创作浪潮计划#AI短剧教程#构图技巧#镜头语言#ai视频创作激励计划\n一个看的清的场景，\n或许代表安全。\n一个融入黑暗中的场景，\n或许代表未知和危险。\n环境变化，\n其实也是剧情变化。\n所以别忘了：\n背景，其实也会说话。",
+    "aweme_type": 0
+  },
+  "video": {
+    "path": "/var/folders/q_/_l1hffp14jx6p54rswz2r_1m0000gn/T/douyin_video_analysis_0c2t71yw/source.mp4",
+    "width": 720,
+    "height": 960,
+    "duration": 27.1,
+    "avg_frame_rate": 30.0,
+    "codec_name": "h264",
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "size_bytes": 808472,
+    "kept_path": null,
+    "temporary_download_removed": true
+  },
+  "contact_sheets": {
+    "sample_fps": 1.0,
+    "tile": {
+      "layout": "auto",
+      "width": 320,
+      "height": 428,
+      "columns": 7,
+      "rows": 4,
+      "capacity": 28,
+      "margin": 8,
+      "padding": 4
+    },
+    "sheet_size": {
+      "width": 2280,
+      "height": 1740,
+      "max_width": 2400,
+      "max_height": 3200
+    },
+    "jpeg_quality": 2,
+    "estimated_sampled_frames": 28,
+    "estimated_sheets": 1,
+    "sampled_frames": 27,
+    "directory": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260811/20260811_第47集_电影里的背景_其实一直在说话_隶先生数智视界_visual/sheets",
+    "sheets": [
+      {
+        "index": 1,
+        "path": "/Users/wen/git/knowledge-notes-archive/影视拉片/20260811/20260811_第47集_电影里的背景_其实一直在说话_隶先生数智视界_visual/sheets/sheet_001.jpg",
+        "start": 0.0,
+        "end": 26.0,
+        "frames": 27
+      }
+    ]
+  }
+}
